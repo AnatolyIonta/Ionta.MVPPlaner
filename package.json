@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "simple-peer": "^9.11.1"
+  },
+  "devDependencies": {
+    "events": "^3.3.0",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "start": "parcel serve public/index.html",
+    "build": "parcel build public/index.html"
+  }
+}
